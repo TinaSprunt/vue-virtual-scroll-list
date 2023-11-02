@@ -1,3 +1,9 @@
+**待新增特性：**
+
+1.获取滚动条滚动到的节点公共函数
+2.滚动条滚动方向
+
+
 <p>
   <a href="https://travis-ci.org/tangbc/vue-virtual-scroll-list">
     <img alt="CIStatus" src="https://travis-ci.org/tangbc/vue-virtual-scroll-list.svg?branch=master"/>
