@@ -1,8 +1,10 @@
 **待新增特性：**
 
 1.获取滚动条滚动到的节点公共函数
+已合并至https://github.com/tangbc/vue-virtual-scroll-list/issues/352
 
-2.滚动条滚动方向
+
+2.待修复bug https://github.com/tangbc/vue-virtual-scroll-list/issues/285
 
 
 <p>
