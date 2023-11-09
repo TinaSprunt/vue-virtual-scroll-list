@@ -4,7 +4,8 @@
 已合并至https://github.com/tangbc/vue-virtual-scroll-list/issues/352
 
 
-2.待修复bug https://github.com/tangbc/vue-virtual-scroll-list/issues/285
+2.待修复bug
+https://github.com/tangbc/vue-virtual-scroll-list/issues/285
 
 
 <p>
